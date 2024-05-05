@@ -1,0 +1,22 @@
+body {
+    font-family: 'Rubik Mono One', sans-serif;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: 'Rubik Mono One', sans-serif;
+  }
+  
+  .small {
+    font-weight: 300;
+    font-style: italic;
+  }
+  .container.container-fluid {
+    width: 92%;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace
+  }
